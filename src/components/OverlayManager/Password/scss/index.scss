@@ -1,0 +1,11 @@
+@import "../../../../globalStyles/scss/variables.scss";
+
+.password-reset {
+  width: 25rem;
+  max-width: 100vw;
+  margin-top: 3rem;
+
+  &__content {
+    padding: $spacer;
+  }
+}
